@@ -1,0 +1,1729 @@
+/home/pi/Desktop/RealPlant-mk1/workingfile/final2.py:47: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(airPump_relay_gpioNum, GPIO.OUT)
+/home/pi/Desktop/RealPlant-mk1/workingfile/final2.py:48: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(led_relay_gpioNum, GPIO.OUT)
+/home/pi/Desktop/RealPlant-mk1/workingfile/final2.py:49: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(cooler_relay_gpioNum, GPIO.OUT)
+/home/pi/Desktop/RealPlant-mk1/workingfile/final2.py:50: RuntimeWarning: This channel is already in use, continuing anyway.  Use GPIO.setwarnings(False) to disable warnings.
+  GPIO.setup(led_r_relay_gpioNum, GPIO.OUT)
+working
+Temp=24.8*C  Humidity=29.2%
+working
+Temp=24.8*C  Humidity=29.2%
+working
+Temp=24.7*C  Humidity=29.0%
+working
+Temp=24.6*C  Humidity=29.0%
+working
+Temp=24.7*C  Humidity=29.0%
+working
+Temp=24.7*C  Humidity=29.0%
+working
+Temp=24.6*C  Humidity=29.8%
+working
+Temp=24.6*C  Humidity=29.9%
+working
+Temp=24.6*C  Humidity=29.7%
+working
+Temp=24.5*C  Humidity=30.2%
+working
+Temp=24.5*C  Humidity=30.8%
+working
+Temp=24.5*C  Humidity=30.9%
+working
+Temp=24.5*C  Humidity=31.4%
+working
+Temp=24.4*C  Humidity=31.5%
+working
+Temp=24.5*C  Humidity=31.7%
+working
+Temp=24.4*C  Humidity=31.7%
+working
+Temp=24.4*C  Humidity=31.3%
+working
+Temp=24.4*C  Humidity=31.2%
+working
+Temp=24.4*C  Humidity=30.3%
+working
+Temp=24.4*C  Humidity=31.5%
+working
+Temp=24.4*C  Humidity=31.6%
+working
+Temp=24.4*C  Humidity=31.6%
+working
+Temp=24.3*C  Humidity=30.8%
+working
+Temp=24.3*C  Humidity=30.6%
+working
+Temp=24.3*C  Humidity=30.6%
+working
+Temp=24.3*C  Humidity=30.7%
+working
+Temp=24.3*C  Humidity=30.7%
+working
+Temp=24.3*C  Humidity=30.7%
+working
+Temp=24.3*C  Humidity=30.7%
+working
+Temp=24.2*C  Humidity=30.8%
+working
+Temp=24.3*C  Humidity=30.8%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.2*C  Humidity=30.8%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.1*C  Humidity=30.6%
+working
+Temp=24.1*C  Humidity=30.6%
+working
+Temp=24.2*C  Humidity=30.5%
+working
+Temp=24.2*C  Humidity=30.5%
+working
+Temp=24.2*C  Humidity=30.4%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.2*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.2*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.2%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.4%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.3%
+working
+Temp=24.1*C  Humidity=30.2%
+working
+Temp=24.1*C  Humidity=30.2%
+working
+Temp=24.1*C  Humidity=30.2%
+working
+Temp=24.1*C  Humidity=30.1%
+working
+Temp=24.0*C  Humidity=30.1%
+working
+Temp=24.0*C  Humidity=30.0%
+working
+Temp=24.0*C  Humidity=30.1%
+working
+Temp=24.0*C  Humidity=30.1%
+working
+Temp=23.9*C  Humidity=30.1%
+working
+Temp=23.9*C  Humidity=30.0%
+working
+Temp=23.9*C  Humidity=30.1%
+working
+Temp=23.9*C  Humidity=31.5%
+working
+Temp=23.8*C  Humidity=31.4%
+working
+Temp=23.8*C  Humidity=31.0%
+working
+Temp=23.8*C  Humidity=30.7%
+working
+Temp=23.8*C  Humidity=30.5%
+working
+Temp=23.7*C  Humidity=30.4%
+working
+Temp=23.7*C  Humidity=30.5%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.8%
+working
+Temp=23.7*C  Humidity=30.7%
+working
+Temp=23.6*C  Humidity=30.7%
+working
+Temp=23.6*C  Humidity=30.7%
+working
+Temp=23.6*C  Humidity=30.7%
+working
+Temp=23.6*C  Humidity=30.7%
+working
+Temp=23.6*C  Humidity=30.8%
+working
+Temp=23.6*C  Humidity=30.8%
+working
+Temp=23.6*C  Humidity=31.5%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.1%
+working
+Temp=23.6*C  Humidity=31.1%
+working
+Temp=23.6*C  Humidity=31.2%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.6*C  Humidity=31.5%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.5*C  Humidity=31.6%
+working
+Temp=23.5*C  Humidity=31.5%
+working
+Temp=23.5*C  Humidity=31.5%
+working
+Temp=23.5*C  Humidity=32.0%
+working
+Temp=23.6*C  Humidity=32.3%
+working
+Temp=23.6*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.9%
+working
+Temp=23.6*C  Humidity=33.7%
+working
+Temp=23.6*C  Humidity=33.6%
+working
+Temp=23.6*C  Humidity=33.7%
+working
+Temp=23.6*C  Humidity=33.9%
+working
+Temp=23.6*C  Humidity=34.0%
+working
+Temp=23.6*C  Humidity=34.0%
+working
+Temp=23.6*C  Humidity=34.0%
+working
+Temp=23.6*C  Humidity=34.0%
+working
+Temp=23.5*C  Humidity=33.9%
+working
+Temp=23.6*C  Humidity=33.7%
+working
+Temp=23.6*C  Humidity=33.6%
+working
+Temp=23.6*C  Humidity=33.4%
+working
+Temp=23.6*C  Humidity=33.2%
+working
+Temp=23.6*C  Humidity=32.9%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.6%
+working
+Temp=23.6*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.3%
+working
+Temp=23.6*C  Humidity=32.2%
+working
+Temp=23.6*C  Humidity=32.0%
+working
+Temp=23.6*C  Humidity=32.0%
+working
+Temp=23.6*C  Humidity=31.8%
+working
+Temp=23.6*C  Humidity=31.8%
+working
+Temp=23.6*C  Humidity=31.5%
+working
+Temp=23.6*C  Humidity=31.4%
+working
+Temp=23.6*C  Humidity=31.4%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.6%
+working
+Temp=23.6*C  Humidity=31.3%
+working
+Temp=23.6*C  Humidity=31.3%
+working
+Temp=23.6*C  Humidity=31.3%
+working
+Temp=23.6*C  Humidity=31.2%
+working
+Temp=23.6*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=32.0%
+working
+Temp=23.6*C  Humidity=32.1%
+working
+Temp=23.6*C  Humidity=32.2%
+working
+Temp=23.6*C  Humidity=32.2%
+working
+Temp=23.6*C  Humidity=32.3%
+working
+Temp=23.6*C  Humidity=32.4%
+working
+Temp=23.6*C  Humidity=32.6%
+working
+Temp=23.6*C  Humidity=33.0%
+working
+Temp=23.6*C  Humidity=33.3%
+working
+Temp=23.6*C  Humidity=33.5%
+working
+Temp=23.6*C  Humidity=33.6%
+working
+Temp=23.6*C  Humidity=33.5%
+working
+Temp=23.6*C  Humidity=33.6%
+working
+Temp=23.6*C  Humidity=33.5%
+working
+Temp=23.6*C  Humidity=33.5%
+working
+Temp=23.6*C  Humidity=33.4%
+working
+Temp=23.6*C  Humidity=33.3%
+working
+Temp=23.5*C  Humidity=33.3%
+working
+Temp=23.6*C  Humidity=33.2%
+working
+Temp=23.6*C  Humidity=32.7%
+working
+Temp=23.6*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.4%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.1%
+working
+Temp=23.5*C  Humidity=32.0%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.8%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.6%
+working
+Temp=23.5*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=32.6%
+working
+Temp=23.6*C  Humidity=32.9%
+working
+Temp=23.5*C  Humidity=33.1%
+working
+Temp=23.6*C  Humidity=33.3%
+working
+Temp=23.5*C  Humidity=33.4%
+working
+Temp=23.5*C  Humidity=33.5%
+working
+Temp=23.5*C  Humidity=33.6%
+working
+Temp=23.5*C  Humidity=33.7%
+working
+Temp=23.5*C  Humidity=33.9%
+working
+Temp=23.5*C  Humidity=33.9%
+working
+Temp=23.5*C  Humidity=33.8%
+working
+Temp=23.5*C  Humidity=33.7%
+working
+Temp=23.5*C  Humidity=33.6%
+working
+Temp=23.5*C  Humidity=33.4%
+working
+Temp=23.5*C  Humidity=33.2%
+working
+Temp=23.5*C  Humidity=33.0%
+working
+Temp=23.5*C  Humidity=32.8%
+working
+Temp=23.5*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.3%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.1%
+working
+Temp=23.5*C  Humidity=32.0%
+working
+Temp=23.5*C  Humidity=32.0%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.8%
+working
+Temp=23.5*C  Humidity=31.8%
+working
+Temp=23.5*C  Humidity=31.7%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.3%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.4%
+working
+Temp=23.5*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.5*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.1%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.3*C  Humidity=31.4%
+working
+Temp=23.3*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.2%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.4%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=32.0%
+working
+Temp=23.3*C  Humidity=32.0%
+working
+Temp=23.3*C  Humidity=32.0%
+working
+Temp=23.3*C  Humidity=32.0%
+working
+Temp=23.3*C  Humidity=32.0%
+working
+Temp=23.4*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.4*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.3*C  Humidity=32.9%
+working
+Temp=23.3*C  Humidity=33.4%
+working
+Temp=23.3*C  Humidity=33.7%
+working
+Temp=23.3*C  Humidity=33.9%
+working
+Temp=23.3*C  Humidity=34.0%
+working
+Temp=23.3*C  Humidity=34.1%
+working
+Temp=23.3*C  Humidity=34.1%
+working
+Temp=23.3*C  Humidity=34.1%
+working
+Temp=23.3*C  Humidity=33.2%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=33.0%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=33.1%
+working
+Temp=23.3*C  Humidity=32.9%
+working
+Temp=23.3*C  Humidity=32.8%
+working
+Temp=23.3*C  Humidity=32.8%
+working
+Temp=23.3*C  Humidity=32.8%
+working
+Temp=23.3*C  Humidity=32.4%
+working
+Temp=23.3*C  Humidity=32.3%
+working
+Temp=23.3*C  Humidity=32.3%
+working
+Temp=23.3*C  Humidity=32.2%
+working
+Temp=23.3*C  Humidity=32.2%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.3%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.3*C  Humidity=31.3%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.4*C  Humidity=31.7%
+working
+Temp=23.4*C  Humidity=31.7%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.6%
+working
+Temp=23.3*C  Humidity=31.5%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.4%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=33.6%
+working
+Temp=23.4*C  Humidity=33.5%
+working
+Temp=23.4*C  Humidity=34.3%
+working
+Temp=23.4*C  Humidity=35.8%
+working
+Temp=23.4*C  Humidity=36.8%
+working
+Temp=23.4*C  Humidity=37.3%
+working
+Temp=23.4*C  Humidity=37.5%
+working
+Temp=23.4*C  Humidity=37.7%
+working
+Temp=23.4*C  Humidity=37.7%
+working
+Temp=23.4*C  Humidity=37.8%
+working
+Temp=23.4*C  Humidity=37.6%
+working
+Temp=23.4*C  Humidity=37.3%
+working
+Temp=23.4*C  Humidity=31.8%
+working
+Temp=23.4*C  Humidity=31.7%
+working
+Temp=23.4*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=32.7%
+working
+Temp=23.4*C  Humidity=33.0%
+working
+Temp=23.3*C  Humidity=33.2%
+working
+Temp=23.3*C  Humidity=33.4%
+working
+Temp=23.3*C  Humidity=32.8%
+working
+Temp=23.3*C  Humidity=32.8%
+working
+Temp=23.3*C  Humidity=32.6%
+working
+Temp=23.3*C  Humidity=32.6%
+working
+Temp=23.3*C  Humidity=32.5%
+working
+Temp=23.3*C  Humidity=36.2%
+working
+Temp=23.3*C  Humidity=35.3%
+working
+Temp=23.3*C  Humidity=38.8%
+working
+Temp=23.3*C  Humidity=39.0%
+working
+Temp=23.3*C  Humidity=39.0%
+working
+Temp=23.3*C  Humidity=38.9%
+working
+Temp=23.3*C  Humidity=35.7%
+working
+Temp=23.3*C  Humidity=35.5%
+working
+Temp=23.3*C  Humidity=35.6%
+working
+Temp=23.3*C  Humidity=34.7%
+working
+Temp=23.3*C  Humidity=33.6%
+working
+Temp=23.3*C  Humidity=33.5%
+working
+Temp=23.3*C  Humidity=32.4%
+working
+Temp=23.3*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.9%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.8%
+working
+Temp=23.2*C  Humidity=31.8%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.3*C  Humidity=31.7%
+working
+Temp=23.2*C  Humidity=31.7%
+working
+Temp=23.2*C  Humidity=32.5%
+working
+Temp=23.2*C  Humidity=32.8%
+working
+Temp=23.2*C  Humidity=33.1%
+working
+Temp=23.2*C  Humidity=33.4%
+working
+Temp=23.3*C  Humidity=33.0%
+working
+Temp=23.2*C  Humidity=33.0%
+working
+Temp=23.2*C  Humidity=32.8%
+working
+Temp=23.2*C  Humidity=32.3%
+working
+Temp=23.2*C  Humidity=32.2%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=31.9%
+working
+Temp=23.2*C  Humidity=31.9%
+working
+Temp=23.2*C  Humidity=31.9%
+working
+Temp=23.2*C  Humidity=31.9%
+working
+Temp=23.2*C  Humidity=31.8%
+working
+Temp=23.2*C  Humidity=31.8%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=31.9%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.1%
+working
+Temp=23.2*C  Humidity=32.1%
+working
+Temp=23.2*C  Humidity=32.1%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.2*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=31.8%
+working
+Temp=23.1*C  Humidity=31.9%
+working
+Temp=23.1*C  Humidity=32.0%
+working
+Temp=23.1*C  Humidity=32.1%
+working
+Temp=23.1*C  Humidity=32.3%
+working
+Temp=23.1*C  Humidity=32.3%
+working
+Temp=23.1*C  Humidity=32.9%
+working
+Temp=23.2*C  Humidity=47.3%
+working
+Temp=23.2*C  Humidity=46.9%
+working
+Temp=23.4*C  Humidity=61.4%
+working
+Temp=23.4*C  Humidity=63.1%
+working
+Temp=23.7*C  Humidity=69.6%
+working
+Temp=23.7*C  Humidity=70.5%
+working
+Temp=23.8*C  Humidity=62.3%
+working
+Temp=23.9*C  Humidity=60.0%
+working
+Temp=23.9*C  Humidity=57.6%
+working
+Temp=23.9*C  Humidity=55.3%
+working
+Temp=23.9*C  Humidity=53.1%
+working
+Temp=23.9*C  Humidity=50.9%
+working
+Temp=24.0*C  Humidity=49.0%
+working
+Temp=24.1*C  Humidity=46.9%
+working
+Temp=24.1*C  Humidity=47.8%
+working
+Temp=24.2*C  Humidity=48.0%
+working
+Temp=24.2*C  Humidity=47.8%
+working
+Temp=24.3*C  Humidity=43.8%
+working
+Temp=24.3*C  Humidity=43.0%
+working
+Temp=24.4*C  Humidity=49.3%
+working
+Temp=24.5*C  Humidity=53.8%
+working
+Temp=24.7*C  Humidity=69.0%
+working
+Temp=24.7*C  Humidity=70.3%
+working
+Temp=24.8*C  Humidity=71.0%
+working
+Temp=25.0*C  Humidity=79.9%
+working
+Temp=25.0*C  Humidity=79.0%
+working
+Temp=25.1*C  Humidity=76.8%
+working
+Temp=25.1*C  Humidity=73.8%
+working
+Temp=25.1*C  Humidity=70.6%
+working
+Temp=25.3*C  Humidity=53.7%
+working
+Temp=25.3*C  Humidity=51.4%
+working
+Temp=25.5*C  Humidity=32.9%
+working
+Temp=25.4*C  Humidity=32.7%
+working
+Temp=25.5*C  Humidity=31.7%
+working
+Temp=25.5*C  Humidity=30.9%
+working
+Temp=25.5*C  Humidity=30.8%
+working
+Temp=25.4*C  Humidity=30.4%
+working
+Temp=25.4*C  Humidity=30.4%
+working
+Temp=25.3*C  Humidity=30.2%
+working
+Temp=25.3*C  Humidity=30.2%
+working
+Temp=25.2*C  Humidity=30.3%
+working
+Temp=25.2*C  Humidity=30.3%
+working
+Temp=25.2*C  Humidity=30.3%
+working
+Temp=25.2*C  Humidity=30.3%
+working
+Temp=25.2*C  Humidity=30.2%
+working
+Temp=25.1*C  Humidity=30.1%
+working
+Temp=25.1*C  Humidity=30.0%
+working
+Temp=25.0*C  Humidity=30.2%
+working
+Temp=25.0*C  Humidity=30.2%
+working
+Temp=25.0*C  Humidity=30.2%
+working
+Temp=25.0*C  Humidity=30.3%
+working
+Temp=25.0*C  Humidity=30.6%
+working
+Temp=25.0*C  Humidity=31.0%
+working
+Temp=25.0*C  Humidity=31.4%
+working
+Temp=25.0*C  Humidity=31.7%
+working
+Temp=25.0*C  Humidity=32.0%
+working
+Temp=25.0*C  Humidity=32.2%
+working
+Temp=25.0*C  Humidity=32.4%
+working
+Temp=25.0*C  Humidity=32.4%
+working
+Temp=25.0*C  Humidity=32.4%
+working
+Temp=24.9*C  Humidity=32.4%
+working
+Temp=24.9*C  Humidity=32.3%
+working
+Temp=24.9*C  Humidity=32.2%
+working
+Temp=24.9*C  Humidity=32.1%
+working
+Temp=24.9*C  Humidity=31.6%
+working
+Temp=24.9*C  Humidity=31.4%
+working
+Temp=24.9*C  Humidity=31.3%
+working
+Temp=24.8*C  Humidity=31.3%
+working
+Temp=24.8*C  Humidity=31.3%
+working
+Temp=24.9*C  Humidity=31.3%
+working
+Temp=24.8*C  Humidity=31.3%
+working
+Temp=24.8*C  Humidity=30.9%
+working
+Temp=24.8*C  Humidity=30.9%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.8*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.6*C  Humidity=30.5%
+working
+Temp=24.6*C  Humidity=30.5%
+working
+Temp=24.7*C  Humidity=30.6%
+working
+Temp=24.6*C  Humidity=30.6%
+working
+Temp=24.6*C  Humidity=30.7%
+working
+Temp=24.6*C  Humidity=30.8%
+working
+Temp=24.6*C  Humidity=30.8%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.5*C  Humidity=30.9%
+working
+Temp=24.5*C  Humidity=30.9%
+working
+Temp=24.6*C  Humidity=30.9%
+working
+Temp=24.5*C  Humidity=30.9%
+working
+Temp=24.5*C  Humidity=30.8%
+working
+Temp=24.5*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.5*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.4*C  Humidity=30.8%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.3*C  Humidity=30.9%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.2*C  Humidity=31.0%
+working
+Temp=24.2*C  Humidity=31.2%
+working
+Temp=24.2*C  Humidity=31.3%
+working
+Temp=24.2*C  Humidity=31.4%
+working
+Temp=24.2*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.4%
+working
+Temp=24.1*C  Humidity=31.3%
+working
+Temp=24.1*C  Humidity=31.3%
+working
+Temp=24.1*C  Humidity=31.3%
+working
+Temp=24.1*C  Humidity=31.3%
+working
+Temp=24.1*C  Humidity=31.3%
+working
+Temp=24.0*C  Humidity=31.3%
+working
+Temp=24.0*C  Humidity=31.4%
+working
+Temp=24.0*C  Humidity=31.4%
+working
+Temp=24.0*C  Humidity=31.4%
+working
+Temp=24.0*C  Humidity=31.5%
+working
+Temp=23.9*C  Humidity=31.4%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.9*C  Humidity=31.4%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.9*C  Humidity=31.3%
+working
+Temp=23.8*C  Humidity=32.2%
+working
+Temp=23.8*C  Humidity=33.3%
+working
+Temp=23.8*C  Humidity=33.3%
+working
+Temp=23.8*C  Humidity=33.3%
+working
+Temp=23.8*C  Humidity=33.1%
+working
+Temp=23.8*C  Humidity=33.0%
+working
+Temp=23.8*C  Humidity=32.5%
+working
+Temp=23.8*C  Humidity=32.2%
+working
+Temp=23.8*C  Humidity=32.1%
+working
+Temp=23.8*C  Humidity=32.1%
+working
+Temp=23.8*C  Humidity=32.0%
+working
+Temp=23.8*C  Humidity=32.0%
+working
+Temp=23.8*C  Humidity=32.0%
+working
+Temp=23.8*C  Humidity=31.9%
+working
+Temp=23.8*C  Humidity=31.9%
+working
+Temp=23.8*C  Humidity=31.9%
+working
+Temp=23.8*C  Humidity=31.8%
+working
+Temp=23.7*C  Humidity=31.8%
+working
+Temp=23.7*C  Humidity=31.9%
+working
+Temp=23.8*C  Humidity=31.9%
+working
+Temp=23.8*C  Humidity=31.8%
+working
+Temp=23.7*C  Humidity=31.8%
+working
+Temp=23.8*C  Humidity=31.8%
+working
+Temp=23.7*C  Humidity=31.8%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.7*C  Humidity=31.7%
+working
+Temp=23.6*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.4%
+working
+Temp=23.6*C  Humidity=32.4%
+working
+Temp=23.6*C  Humidity=32.0%
+working
+Temp=23.6*C  Humidity=31.9%
+working
+Temp=23.6*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.6*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.9%
+working
+Temp=23.5*C  Humidity=31.8%
+working
+Temp=23.5*C  Humidity=32.4%
+working
+Temp=23.5*C  Humidity=34.4%
+working
+Temp=23.5*C  Humidity=35.2%
+working
+Temp=23.5*C  Humidity=34.1%
+working
+Temp=23.5*C  Humidity=33.9%
+working
+Temp=23.5*C  Humidity=33.7%
+working
+Temp=23.5*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.6%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.5%
+working
+Temp=23.5*C  Humidity=32.4%
+working
+Temp=23.5*C  Humidity=32.4%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.5*C  Humidity=32.3%
+working
+Temp=23.5*C  Humidity=32.2%
+working
+Temp=23.4*C  Humidity=32.7%
+working
+Temp=23.4*C  Humidity=32.7%
+working
+Temp=23.4*C  Humidity=32.6%
+working
+Temp=23.4*C  Humidity=32.4%
+working
+Temp=23.4*C  Humidity=32.4%
+working
+Temp=23.4*C  Humidity=33.2%
+working
+Temp=23.5*C  Humidity=36.5%
+working
+Temp=23.7*C  Humidity=59.5%
+working
+Temp=23.7*C  Humidity=59.1%
+working
+Temp=23.7*C  Humidity=57.8%
+working
+Temp=23.7*C  Humidity=56.0%
+working
+Temp=23.7*C  Humidity=54.1%
+working
+Temp=23.7*C  Humidity=52.1%
+working
+Temp=23.8*C  Humidity=50.2%
+working
+Temp=23.8*C  Humidity=48.4%
+working
+Temp=23.8*C  Humidity=46.7%
+working
+Temp=23.8*C  Humidity=45.2%
+working
+Temp=23.8*C  Humidity=43.8%
+working
+Temp=23.8*C  Humidity=42.6%
+working
+Temp=23.8*C  Humidity=41.5%
+working
+Temp=23.9*C  Humidity=40.4%
+working
+Temp=23.8*C  Humidity=39.5%
+working
+Temp=23.9*C  Humidity=38.7%
+working
+Temp=23.9*C  Humidity=38.0%
+working
+Temp=23.9*C  Humidity=37.3%
+working
+Temp=23.9*C  Humidity=36.8%
+working
+Temp=23.9*C  Humidity=34.5%
+working
+Temp=24.0*C  Humidity=34.2%
+working
+Temp=24.0*C  Humidity=34.0%
+working
+Temp=24.0*C  Humidity=32.9%
+working
+Temp=24.0*C  Humidity=32.4%
+working
+Temp=24.0*C  Humidity=32.4%
+working
+Temp=24.0*C  Humidity=32.2%
+working
+Temp=24.0*C  Humidity=33.0%
+working
+Temp=24.0*C  Humidity=32.9%
+working
+Temp=24.0*C  Humidity=32.9%
+working
+Temp=24.0*C  Humidity=32.5%
+working
+Temp=24.0*C  Humidity=32.5%
+working
+Temp=24.0*C  Humidity=32.3%
+working
+Temp=24.1*C  Humidity=32.0%
+working
+Temp=24.1*C  Humidity=32.0%
+working
+Temp=24.0*C  Humidity=32.0%
+working
+Temp=24.0*C  Humidity=31.9%
+working
+Temp=24.0*C  Humidity=31.9%
+working
+Temp=24.0*C  Humidity=31.9%
+working
+Temp=24.1*C  Humidity=31.9%
+working
+Temp=24.0*C  Humidity=31.9%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.8%
+working
+Temp=24.0*C  Humidity=32.8%
+working
+Temp=24.2*C  Humidity=44.8%
+working
+Temp=24.2*C  Humidity=43.7%
+working
+Temp=24.2*C  Humidity=42.6%
+working
+Temp=24.3*C  Humidity=37.4%
+working
+Temp=24.3*C  Humidity=36.8%
+working
+Temp=24.3*C  Humidity=36.3%
+working
+Temp=24.3*C  Humidity=34.1%
+working
+Temp=24.3*C  Humidity=32.6%
+working
+Temp=24.4*C  Humidity=32.6%
+working
+Temp=24.3*C  Humidity=32.6%
+working
+Temp=24.4*C  Humidity=32.6%
+working
+Temp=24.3*C  Humidity=32.6%
+working
+Temp=24.3*C  Humidity=32.5%
+working
+Temp=24.3*C  Humidity=31.7%
+working
+Temp=24.3*C  Humidity=32.5%
+working
+Temp=24.2*C  Humidity=32.4%
+working
+Temp=24.2*C  Humidity=32.6%
+working
+Temp=24.1*C  Humidity=32.6%
+working
+Temp=24.2*C  Humidity=32.6%
+working
+Temp=24.1*C  Humidity=32.6%
+working
+Temp=24.1*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.7%
+working
+Temp=24.1*C  Humidity=32.7%
+working
+Temp=24.1*C  Humidity=32.7%
+working
+Temp=24.0*C  Humidity=32.5%
+working
+Temp=24.0*C  Humidity=32.4%
+working
+Temp=24.0*C  Humidity=32.3%
+working
+Temp=24.0*C  Humidity=32.3%
+working
+Temp=23.9*C  Humidity=31.9%
+working
+Temp=23.9*C  Humidity=33.0%
+working
+Temp=23.8*C  Humidity=32.9%
+working
+Temp=23.8*C  Humidity=34.4%
+working
+Temp=23.8*C  Humidity=35.6%
+working
+Temp=23.8*C  Humidity=35.4%
+working
+Temp=23.8*C  Humidity=33.3%
+working
+Temp=23.7*C  Humidity=33.4%
+working
+Temp=23.7*C  Humidity=33.3%
+working
+Temp=23.8*C  Humidity=33.3%
+working
+Temp=23.7*C  Humidity=33.2%
+working
+Temp=23.7*C  Humidity=33.0%
+working
+Temp=23.7*C  Humidity=33.1%
+working
+Temp=23.8*C  Humidity=33.1%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.9%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.6%
+working
+Temp=23.7*C  Humidity=32.6%
+working
+Temp=23.7*C  Humidity=32.7%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.9%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.7*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.8%
+working
+Temp=23.6*C  Humidity=32.5%
+working
+Temp=23.6*C  Humidity=32.4%
+working
+Temp=23.6*C  Humidity=32.3%
+working
+Temp=23.6*C  Humidity=32.1%
+working
+Temp=23.6*C  Humidity=32.1%
+working
+Temp=23.6*C  Humidity=33.7%
+working
+Temp=23.5*C  Humidity=32.8%
+working
+Temp=23.5*C  Humidity=34.3%
+working
